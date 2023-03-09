@@ -13,7 +13,7 @@
     -  Then if you want to run case1.txt, you could run it: ./main -file ./testcase/case1.txt
 
 2. For Problem2 in Assignment Three:
-    - Revise fifo.c and lru.c (that is the only two files you need to modify/submit) to implement FIFO and LRU algorithm. You could write **some helper functions** in this file as well. 
+    - Revise fifo.c and lru.c (that is the only two files you need to modify/submit) to implement FIFO and LRU algorithm. You could write **some helper functions** in the files as well. 
 
     - Your program should be compiled by:
     make
