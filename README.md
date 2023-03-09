@@ -1,5 +1,4 @@
 # oslab-assignment3-2
-oslab-assignment3-2
 
 1. The current code base contains FIFO and LRU page replacement framework implemented by the single linked list. It includes:
    - main.c: The main function, and it includes the testcase reading part, the report for the status of cache after assessing each page in the reference row and the calculation of the total missing pages.
