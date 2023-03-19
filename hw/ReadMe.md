@@ -8,7 +8,10 @@
     To compile, input in the terminal:
     -  make
 
-    -  Then if you want to run case1.txt, you could run it: ./main -file ./testcase/case1.txt
+    Then you could see executable file main, then you could run it using the following command:
+    - ./main -in_file <in_file> -out_file <out_file>
+    
+    For example, if you want to run case1.txt, you could run it: ./main -in_file ./testcase/case1.txt -out_file ./testcase/case1_out.txt
 
 2. For Problem2 in Assignment Three:
     - Revise fifo.c and lru.c (that is the only two files you need to modify/submit) to implement FIFO and LRU algorithm. You could write **some helper functions** in the files as well. 
